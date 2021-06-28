@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=52&section=header&text=Haennim%20Park%20@Github&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=52&section=header&text=Haennim%20Park%20@GitHub&fontSize=30)
 
 
 
