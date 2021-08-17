@@ -9,4 +9,5 @@
 
 
 
-![realestate](https://img.shields.io/badge/-Real_Estate_Development-black)![civil](https://img.shields.io/badge/-Civil_Enginnering-black)![hydrology](https://img.shields.io/badge/-Hydrology-black)![github](https://img.shields.io/badge/-GitHub-black?logo=Github)![csharp](https://img.shields.io/badge/-CSharp-black?logo=CSharp)![dotnet](https://img.shields.io/badge/-.NET-black?logo=dotnet)![python](https://img.shields.io/badge/-Python-black?logo=Python)![vs](https://img.shields.io/badge/-Visual_Studio-black?logo=VisualStudio)![pycharm](https://img.shields.io/badge/-PyCharm-black?logo=PyCharm)
+![realestate](https://img.shields.io/badge/-Real_Estate_Development-black) ![civil](https://img.shields.io/badge/-Civil_Enginnering-black) ![hydrology](https://img.shields.io/badge/-Hydrology-black) ![github](https://img.shields.io/badge/-GitHub-black?logo=Github) ![csharp](https://img.shields.io/badge/-CSharp-black?logo=CSharp) ![dotnet](https://img.shields.io/badge/-.NET-black?logo=dotnet) ![python](https://img.shields.io/badge/-Python-black?logo=Python) ![vs](https://img.shields.io/badge/-Visual_Studio-black?logo=VisualStudio) ![pycharm](https://img.shields.io/badge/-PyCharm-black?logo=PyCharm)
+
